@@ -1,1 +1,64 @@
-# cv
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Djpunjab | Home</title>
+    <link rel="stylesheet" type="" href="style.css">
+    
+</head>
+<body>
+    <header>
+        Djpunjab official Site
+    </header>
+     
+    <nav>
+        <a href="#" target="_blank" rel="noopener noreferrer">Home</a>
+        <a href="#" target="_blank" rel="noopener noreferrer">Latest</a>
+        <a href="#" target="_blank" rel="noopener noreferrer">Songs type</a>
+        <a href="#" target="_blank" rel="noopener noreferrer">Login/sign up</a>
+    </nav>
+
+    <section>
+        <h2>Latest in Town</h2>
+        <iframe width="30%" src="https://www.youtube.com/embed/doVZWonpAF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="30%" src="https://www.youtube.com/embed/6xoB4ZiKKn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="30%" src="https://www.youtube.com/embed/hV8EGTjzD2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <br>
+        <br>
+        <iframe width="30%" src="https://www.youtube.com/embed/HIgpRtmqYKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="30%" src="https://www.youtube.com/embed/2VPYQaS0yVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="30%" src="https://www.youtube.com/embed/vKb9xwSRrsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+    <section>
+        <h1>Hindi Songs</h1>
+        <iframe width="33%" src="https://www.youtube.com/embed/hcMzwMrr1tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="33%" src="https://www.youtube.com/embed/gvyUuxdRdR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="33%" src="https://www.youtube.com/embed/sqmNziU3OxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+    <section>
+        <h1>Our DJ</h1>
+        <img src="img/download.jfif" alt="This is a dj">
+       <h1>This is our sponsor dj snake</h1>
+       <a href="http://www.youtube.com" target="_blank" rel="noopener noreferrer">Youtube</a>
+       <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a>
+       <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+       <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae cumque nobis dolores eum maiores quis facere sapiente saepe pariatur, esse ad? Tempore accusantium ut sed.</h3>
+    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non nihil iste, sed incidunt sit illo tenetur. Adipisci, veritatis commodi neque porro accusantium minus nam amet quo cupiditate dolorum laudantium magnam eius itaque esse repudiandae fugiat ipsam beatae, voluptates quos tempore labore autem fugit! Nemo esse, earum maiores eos dolor labore fugiat officia voluptate fuga eaque incidunt rerum, repellendus et voluptatum quaerat reprehenderit omnis cum excepturi ex illo delectus iste impedit? A officiis maiores, itaque optio quidem minima dolore ad nam? Et natus eveniet culpa quisquam doloribus expedita enim cumque temporibus! Recusandae dolores quo, totam harum ipsum numquam reiciendis neque possimus.</h4>
+    </section>
+    
+        
+    
+    <footer>
+        <a href="#" target="_blank" rel="noopener noreferrer">FAQ</a>
+        <a href="#" target="_blank" rel="noopener noreferrer">Terms of Use</a>
+        <a href="#" target="_blank" rel="noopener noreferrer">Contact us</a>
+        <a href="#" target="_blank" rel="noopener noreferrer">Privacy policy</a>
+        <a href="#" target="_blank" rel="noopener noreferrer">&copy; 2020 | Djpunjab</a>
+    </footer>
+
+
+</body>
+</html>
