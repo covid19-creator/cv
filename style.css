@@ -1,0 +1,54 @@
+section{
+    font-size: larger;
+    background-color: azure;
+}
+h1,h2,header{
+    color:  black; 
+    font-size: larger;
+    text-align: center;
+}
+header{
+    font-size: 50px;
+    text-align: center;
+    height: 10ch;
+    background-color:floralwhite;
+}
+
+
+h3,h4{
+    color: blueviolet;
+    align-self: center;
+}
+header,section{
+    text-align: center;
+}
+footer.a{
+    border: 2px black;
+    border-color: cadetblue;
+}
+nav a{
+    text-decoration: none;
+    color: whitesmoke;
+    align-items: center;
+    width: 800px;
+    height: 100px;
+    padding: 20px;
+    border: 20px;
+    
+    margin: 5px;
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+}
+footer a{
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    padding: 3ch;
+
+}
+footer{
+    
+    background-color: black;
+}
